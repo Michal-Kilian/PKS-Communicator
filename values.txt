@@ -1,0 +1,35 @@
+{
+    "Values": [
+        {
+            "commtype": {
+                "NO-COMMTYPE": "0",
+                "SYN": "1",
+                "ACK": "2",
+                "FIN": "3"
+            },
+
+            "commtype_bytes": {
+                "0": "NO-COMMTYPE",
+                "1": "SYN",
+                "2": "ACK",
+                "3": "FIN"
+            },
+
+            "datatype": {
+                "NO-DATATYPE": "0",
+                "TEXT": "1",
+                "FILE": "2",
+                "FILE-HEADER": "3"
+            },
+
+            "datatype_bytes": {
+                "0": "NO-DATATYPE",
+                "1": "TEXT",
+                "2": "FILE",
+                "3": "FILE-HEADER"
+            }
+        }
+    ]
+}
+
+
